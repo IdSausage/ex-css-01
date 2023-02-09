@@ -1,3 +1,19 @@
+.content {
+    background: #eee;
+}
+
+.content h1 {
+    color: red;
+}
+
+div h1 {
+    font-size: 300%;
+}
+
+.content p {
+    color: green;
+}
+
 h1 {
     color: chocolate;
 
@@ -5,8 +21,15 @@ h1 {
 
 p {
     font-size: 20px;
+}
+
+.intro {
     color: brown;
     text-align: center;
+}
+
+#intro {
+    color: green;
 }
 
 h2 {
