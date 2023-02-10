@@ -1,0 +1,40 @@
+.parent {
+    position: absolute;
+    background-color: rgb(177, 231, 233);
+    height: 20vh;
+    width: 40vw;
+}
+
+.box1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border: 2px dashed darkblue;
+    left: 0%;
+    margin-right: 2%;
+    background-color: aliceblue;
+    z-index: 0;
+}
+
+.box2 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border: 2px dashed darkblue;
+    left: 10%;
+    top: 10%;
+    margin-right: 2%;
+    background-color: aliceblue;
+    z-index: 1;
+}
+
+.box3 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border: 2px dashed darkblue;
+    left: 20%;
+    margin-right: 2%;
+    background-color: aliceblue;
+    z-index: 0;
+}

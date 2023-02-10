@@ -1,5 +1,11 @@
 .content {
     background: #eee;
+    padding: 20px;
+    margin: 20px;
+    /* border-width: 15px;
+    border-color: black;
+    border-style: dashed; */
+    border: 5px dashed black;
 }
 
 .content h1 {

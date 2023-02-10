@@ -1,0 +1,32 @@
+.box1 {
+    background-color: beige;
+    width: 70vh;
+    height: 40vw;
+}
+
+.box2 {
+    background-color: darkgray;
+    width: 70vh;
+    height: 40vw;
+}
+
+img {}
+
+.sausage1 {
+    float: left;
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+}
+
+.sausage2 {
+    float: right;
+    width: 50%;
+    height: 50%;
+    margin: 15px;
+}
+
+
+p {
+    top: 5%;
+}
